@@ -13,7 +13,6 @@
 
 <!-- tech stacks -->
 <h2>Tech Stack:</h2>
-<hr>
 <br>
 
 <p align="center">
@@ -33,7 +32,6 @@
 
 <!-- statistics -->
 <h2>My Github Stats:</h2>
-<hr>
 
 <p align="center">
   <br>
@@ -50,7 +48,6 @@
   <br> -->
 </p>
 <br>
-<hr>
 
 <!-- social media -->
 <p align="center">
@@ -70,33 +67,3 @@
     </svg>
   </a>
 </p>
-
-<!--
-**rohit1403/rohit1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**rohitkori/rohitkori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
