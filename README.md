@@ -15,18 +15,30 @@
 <h2>Tech Stack:</h2>
 <br>
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 </p>
 <br>
 
