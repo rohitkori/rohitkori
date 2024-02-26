@@ -16,29 +16,29 @@
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="django" />
+  <img src="https://skillicons.dev/icons?i=react" alt="react" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" /> 
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" /> 
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" />
+  <img src="https://skillicons.dev/icons?i=python" alt="python" />
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" />
+<img src="https://skillicons.dev/icons?i=gcp" alt="gcp" />
+<img src="https://skillicons.dev/icons?i=azure" alt="azure" />
+<img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" />
+<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
+<img src="https://skillicons.dev/icons?i=express" alt="express" />
+<img src="https://skillicons.dev/icons?i=go" alt="go" />
+<img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" />
+<img src="https://skillicons.dev/icons?i=github" alt="github" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
 </p>
 <br>
 
