@@ -3,10 +3,10 @@
 <!-- about -->
 <p align="center">
   <ul>
-    <li> I am a Software Developer from India.
-    <Li> Currently pursuing my Bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">Indian Institute of Technology Jodhpur</a>.
-    <li> Passionate about Web Dev, DevOps & enjoy learning new things.
-    <li> Looking for opportunities in Software Development. 
+    <li> I am a Software Development Engineer from India.</li>
+    <li> Graduate in Computer Science and Engineering from <a href="https://iitj.ac.in/">Indian Institute of Technology Jodhpur</a>.</li>
+    <li> Passionate about Full Stack Development, DevOps, and Open Source.</li>
+    <li> Looking for opportunities in Software Development.</li>
   </ul>
 </p>
 <br>
