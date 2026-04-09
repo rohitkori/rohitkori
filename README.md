@@ -42,25 +42,6 @@
 </p>
 <br>
 
-<!-- statistics -->
-<h2>My Github Stats:</h2>
-
-<p align="center">
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkori&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="rohitkori" />
-  <br>
-  <br>
-  <img align="center"  
-  src="https://github-readme-streak-stats.herokuapp.com?user=rohitkori&theme=transparent&border_radius=10&border=FCFCFC&ring=9CEB18"
-  alt="rohitkori"/>
-  <br>
-  <!-- <img align="center"  
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkori&theme=transparent&layout=default"
-  alt="rohitkori"/>
-  <br> -->
-</p>
-<br>
-
 <!-- social media -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-kumar-kori-577017235/" target="blank">
